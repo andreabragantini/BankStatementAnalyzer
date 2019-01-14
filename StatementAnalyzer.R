@@ -1,5 +1,3 @@
-# Script to fetch, rinse&clean, analyse and show data regarding Danish bank statement from Danske Bank
-
 library(plyr)
 library(ggplot2)
 
